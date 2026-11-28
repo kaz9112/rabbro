@@ -1,0 +1,703 @@
+{
+  "man": [
+    {
+      "k": "00 73 16 01",
+      "u": "Asuransi BPJS pekerja",
+      "s": "ls",
+      "g": "00 73 16 Insurance Requirements",
+      "dv": "00",
+      "m": true
+    },
+    {
+      "k": "00 73 16 02",
+      "u": "CAR & liability insurance",
+      "s": "ls",
+      "g": "00 73 16 Insurance Requirements",
+      "dv": "00",
+      "m": true
+    },
+    {
+      "k": "01 32 00 01",
+      "u": "Laporan",
+      "s": "ls",
+      "g": "01 32 00 Construction Progress Documentation",
+      "dv": "01",
+      "m": true
+    },
+    {
+      "k": "01 33 00 01",
+      "u": "Shop drawing",
+      "s": "ls",
+      "g": "01 33 00 Submittal Procedures",
+      "dv": "01",
+      "m": true
+    },
+    {
+      "k": "01 35 29 01",
+      "u": "Alat Pelindung Diri (APD) untuk seluruh personil",
+      "s": "ls",
+      "g": "01 35 29 Health, Safety, and Emergency Response Procedures",
+      "dv": "01",
+      "m": true
+    },
+    {
+      "k": "01 35 29 02",
+      "u": "Rambu-rambu",
+      "s": "ls",
+      "g": "01 35 29 Health, Safety, and Emergency Response Procedures",
+      "dv": "01",
+      "m": true
+    },
+    {
+      "k": "01 50 00 01",
+      "u": "Mobilisasi",
+      "s": "ls",
+      "g": "01 50 00 Temporary Facilities and Controls",
+      "dv": "01",
+      "m": true
+    },
+    {
+      "k": "01 50 00 02",
+      "u": "Demobilisasi",
+      "s": "ls",
+      "g": "01 50 00 Temporary Facilities and Controls",
+      "dv": "01",
+      "m": true
+    },
+    {
+      "k": "01 50 00 03",
+      "u": "Keamanan selama pekerjaan berlangsung",
+      "s": "bln",
+      "g": "01 50 00 Temporary Facilities and Controls",
+      "dv": "01",
+      "m": true
+    },
+    {
+      "k": "01 52 13 01",
+      "u": "Kantor sementara",
+      "s": "ls",
+      "g": "01 52 13 Field Offices and Sheds",
+      "dv": "01",
+      "m": true
+    },
+    {
+      "k": "01 52 13 02",
+      "u": "Storage & Laydown area",
+      "s": "ls",
+      "g": "01 52 13 Field Offices and Sheds",
+      "dv": "01",
+      "m": true
+    },
+    {
+      "k": "01 56 26 01",
+      "u": "Pagar sementara selama pekerjaan berlangsung",
+      "s": "m'",
+      "g": "01 56 26 Temporary Fencing",
+      "dv": "01",
+      "m": true
+    },
+    {
+      "k": "01 71 23 01",
+      "u": "Layout & setting",
+      "s": "ls",
+      "g": "01 71 23 Field Engineering",
+      "dv": "01",
+      "m": true
+    },
+    {
+      "k": "01 78 39 01",
+      "u": "As built drawing",
+      "s": "ls",
+      "g": "01 78 39 Project Record Documents",
+      "dv": "01",
+      "m": true
+    }
+  ],
+  "mep": [
+    {
+      "k": "14 21 00 01",
+      "u": "Lift penumpang (sebutkan kapasitas dan jumlah stop di keterangan)",
+      "s": "unit",
+      "g": "14 21 00 Electric Traction Elevators",
+      "dv": "14",
+      "m": true
+    },
+    {
+      "k": "14 63 00 01",
+      "u": "Overhead crane / hoist workshop (kapasitas di keterangan)",
+      "s": "unit",
+      "g": "14 60 00 Hoists and Cranes",
+      "dv": "14",
+      "m": true
+    },
+    {
+      "k": "10 44 16 01",
+      "u": "Alat pemadam api ringan (APAR)",
+      "s": "unit",
+      "g": "10 44 00 Fire Protection Specialties",
+      "dv": "10",
+      "m": true
+    },
+    {
+      "k": "21 11 16 01",
+      "u": "Tangki / reservoir air pemadam",
+      "s": "ls",
+      "g": "21 11 00 Facility Fire-Suppression Water-Service Piping",
+      "dv": "21",
+      "m": true
+    },
+    {
+      "k": "21 11 16 02",
+      "u": "Hidran halaman (pillar hydrant)",
+      "s": "unit",
+      "g": "21 11 00 Facility Fire-Suppression Water-Service Piping",
+      "dv": "21",
+      "m": true
+    },
+    {
+      "k": "21 11 19 01",
+      "u": "Siamese connection (fire department connection)",
+      "s": "unit",
+      "g": "21 11 00 Facility Fire-Suppression Water-Service Piping",
+      "dv": "21",
+      "m": true
+    },
+    {
+      "k": "21 12 00 01",
+      "u": "Pipa hidran dan fitting, termasuk cat",
+      "s": "m'",
+      "g": "21 12 00 Fire-Suppression Standpipes",
+      "dv": "21",
+      "m": true
+    },
+    {
+      "k": "21 12 00 02",
+      "u": "Kotak hidran gedung lengkap (selang, nozzle, valve)",
+      "s": "unit",
+      "g": "21 12 00 Fire-Suppression Standpipes",
+      "dv": "21",
+      "m": true
+    },
+    {
+      "k": "21 13 13 01",
+      "u": "Pipa sprinkler dan fitting",
+      "s": "m'",
+      "g": "21 13 00 Fire-Suppression Sprinkler Systems",
+      "dv": "21",
+      "m": true
+    },
+    {
+      "k": "21 13 13 02",
+      "u": "Kepala sprinkler",
+      "s": "titik",
+      "g": "21 13 00 Fire-Suppression Sprinkler Systems",
+      "dv": "21",
+      "m": true
+    },
+    {
+      "k": "21 13 13 03",
+      "u": "Alarm valve, flow switch dan OS&Y valve",
+      "s": "set",
+      "g": "21 13 00 Fire-Suppression Sprinkler Systems",
+      "dv": "21",
+      "m": true
+    },
+    {
+      "k": "21 30 00 01",
+      "u": "Pompa pemadam electric",
+      "s": "unit",
+      "g": "21 30 00 Fire Pumps",
+      "dv": "21",
+      "m": true
+    },
+    {
+      "k": "21 30 00 02",
+      "u": "Pompa pemadam diesel",
+      "s": "unit",
+      "g": "21 30 00 Fire Pumps",
+      "dv": "21",
+      "m": true
+    },
+    {
+      "k": "21 30 00 03",
+      "u": "Pompa jockey",
+      "s": "unit",
+      "g": "21 30 00 Fire Pumps",
+      "dv": "21",
+      "m": true
+    },
+    {
+      "k": "21 30 00 04",
+      "u": "Panel kontrol pompa pemadam",
+      "s": "unit",
+      "g": "21 30 00 Fire Pumps",
+      "dv": "21",
+      "m": true
+    },
+    {
+      "k": "22 11 16 01",
+      "u": "Pipa air bersih PPR dan fitting",
+      "s": "m'",
+      "g": "22 11 00 Facility Water Distribution",
+      "dv": "22",
+      "m": true
+    },
+    {
+      "k": "22 11 16 02",
+      "u": "Pipa air bersih PVC / GIP dan fitting",
+      "s": "m'",
+      "g": "22 11 00 Facility Water Distribution",
+      "dv": "22",
+      "m": true
+    },
+    {
+      "k": "22 11 19 01",
+      "u": "Valve, water meter dan aksesoris",
+      "s": "ls",
+      "g": "22 11 00 Facility Water Distribution",
+      "dv": "22",
+      "m": true
+    },
+    {
+      "k": "22 11 23 01",
+      "u": "Pompa transfer air bersih",
+      "s": "unit",
+      "g": "22 11 00 Facility Water Distribution",
+      "dv": "22",
+      "m": true
+    },
+    {
+      "k": "22 11 23 02",
+      "u": "Pompa booster",
+      "s": "unit",
+      "g": "22 11 00 Facility Water Distribution",
+      "dv": "22",
+      "m": true
+    },
+    {
+      "k": "22 12 00 01",
+      "u": "Tangki air atas (roof tank)",
+      "s": "unit",
+      "g": "22 12 00 Facility Potable-Water Storage Tanks",
+      "dv": "22",
+      "m": true
+    },
+    {
+      "k": "22 12 00 02",
+      "u": "Ground water tank",
+      "s": "unit",
+      "g": "22 12 00 Facility Potable-Water Storage Tanks",
+      "dv": "22",
+      "m": true
+    },
+    {
+      "k": "22 13 16 01",
+      "u": "Pipa air kotor / kotoran PVC dan fitting",
+      "s": "m'",
+      "g": "22 13 00 Facility Sanitary Sewerage",
+      "dv": "22",
+      "m": true
+    },
+    {
+      "k": "22 13 16 02",
+      "u": "Pipa air bekas dan vent PVC",
+      "s": "m'",
+      "g": "22 13 00 Facility Sanitary Sewerage",
+      "dv": "22",
+      "m": true
+    },
+    {
+      "k": "22 13 16 03",
+      "u": "Cleanout dan bak kontrol",
+      "s": "unit",
+      "g": "22 13 00 Facility Sanitary Sewerage",
+      "dv": "22",
+      "m": true
+    },
+    {
+      "k": "22 13 53 01",
+      "u": "Septic tank / STP",
+      "s": "unit",
+      "g": "22 13 00 Facility Sanitary Sewerage",
+      "dv": "22",
+      "m": true
+    },
+    {
+      "k": "22 13 53 02",
+      "u": "Sumur resapan",
+      "s": "unit",
+      "g": "22 13 00 Facility Sanitary Sewerage",
+      "dv": "22",
+      "m": true
+    },
+    {
+      "k": "23 31 13 01",
+      "u": "Ducting dan aksesoris exhaust / ventilasi",
+      "s": "m'",
+      "g": "23 31 00 HVAC Ducts and Casings",
+      "dv": "23",
+      "m": true
+    },
+    {
+      "k": "23 34 00 01",
+      "u": "Exhaust fan toilet / ruangan",
+      "s": "unit",
+      "g": "23 34 00 HVAC Fans",
+      "dv": "23",
+      "m": true
+    },
+    {
+      "k": "23 34 00 02",
+      "u": "Roof ventilator / turbine ventilator",
+      "s": "unit",
+      "g": "23 34 00 HVAC Fans",
+      "dv": "23",
+      "m": true
+    },
+    {
+      "k": "23 34 00 03",
+      "u": "Pressurizing fan tangga kebakaran",
+      "s": "unit",
+      "g": "23 34 00 HVAC Fans",
+      "dv": "23",
+      "m": true
+    },
+    {
+      "k": "23 81 26 01",
+      "u": "AC split wall (PK di keterangan)",
+      "s": "unit",
+      "g": "23 81 00 Decentralized HVAC Equipment",
+      "dv": "23",
+      "m": true
+    },
+    {
+      "k": "23 81 26 02",
+      "u": "AC split duct (PK di keterangan)",
+      "s": "unit",
+      "g": "23 81 00 Decentralized HVAC Equipment",
+      "dv": "23",
+      "m": true
+    },
+    {
+      "k": "23 81 26 03",
+      "u": "Pipa freon, drain dan kabel kontrol AC",
+      "s": "set",
+      "g": "23 81 00 Decentralized HVAC Equipment",
+      "dv": "23",
+      "m": true
+    },
+    {
+      "k": "23 81 29 01",
+      "u": "VRF / VRV outdoor unit",
+      "s": "unit",
+      "g": "23 81 00 Decentralized HVAC Equipment",
+      "dv": "23",
+      "m": true
+    },
+    {
+      "k": "23 81 29 02",
+      "u": "VRF / VRV indoor unit",
+      "s": "unit",
+      "g": "23 81 00 Decentralized HVAC Equipment",
+      "dv": "23",
+      "m": true
+    },
+    {
+      "k": "23 81 29 03",
+      "u": "Pipa refrigerant VRF / VRV",
+      "s": "m'",
+      "g": "23 81 00 Decentralized HVAC Equipment",
+      "dv": "23",
+      "m": true
+    },
+    {
+      "k": "26 05 19 01",
+      "u": "Kabel daya NYY (ukuran di keterangan)",
+      "s": "m'",
+      "g": "26 05 00 Common Work Results for Electrical",
+      "dv": "26",
+      "m": true
+    },
+    {
+      "k": "26 05 19 02",
+      "u": "Kabel NYM / NYA instalasi (ukuran di keterangan)",
+      "s": "m'",
+      "g": "26 05 00 Common Work Results for Electrical",
+      "dv": "26",
+      "m": true
+    },
+    {
+      "k": "26 05 26 01",
+      "u": "Sistem grounding (BC, rod, bak kontrol)",
+      "s": "ls",
+      "g": "26 05 00 Common Work Results for Electrical",
+      "dv": "26",
+      "m": true
+    },
+    {
+      "k": "26 05 33 01",
+      "u": "Pipa conduit PVC / EMT dan aksesoris",
+      "s": "m'",
+      "g": "26 05 00 Common Work Results for Electrical",
+      "dv": "26",
+      "m": true
+    },
+    {
+      "k": "26 05 36 01",
+      "u": "Cable tray / cable ladder",
+      "s": "m'",
+      "g": "26 05 00 Common Work Results for Electrical",
+      "dv": "26",
+      "m": true
+    },
+    {
+      "k": "26 12 19 01",
+      "u": "Trafo distribusi",
+      "s": "unit",
+      "g": "26 12 00 Medium-Voltage Transformers",
+      "dv": "26",
+      "m": true
+    },
+    {
+      "k": "26 24 13 01",
+      "u": "Panel LVMDP",
+      "s": "unit",
+      "g": "26 24 00 Switchboards and Panelboards",
+      "dv": "26",
+      "m": true
+    },
+    {
+      "k": "26 24 13 02",
+      "u": "Kapasitor bank (PFC)",
+      "s": "unit",
+      "g": "26 24 00 Switchboards and Panelboards",
+      "dv": "26",
+      "m": true
+    },
+    {
+      "k": "26 24 16 01",
+      "u": "Panel distribusi lantai (SDP)",
+      "s": "unit",
+      "g": "26 24 00 Switchboards and Panelboards",
+      "dv": "26",
+      "m": true
+    },
+    {
+      "k": "26 24 16 02",
+      "u": "Panel pompa / lift / peralatan",
+      "s": "unit",
+      "g": "26 24 00 Switchboards and Panelboards",
+      "dv": "26",
+      "m": true
+    },
+    {
+      "k": "26 24 16 03",
+      "u": "Sub-panel mesin workshop",
+      "s": "unit",
+      "g": "26 24 00 Switchboards and Panelboards",
+      "dv": "26",
+      "m": true
+    },
+    {
+      "k": "26 27 26 01",
+      "u": "Titik lampu (instalasi)",
+      "s": "titik",
+      "g": "26 27 00 Low-Voltage Distribution Equipment",
+      "dv": "26",
+      "m": true
+    },
+    {
+      "k": "26 27 26 02",
+      "u": "Titik saklar",
+      "s": "titik",
+      "g": "26 27 00 Low-Voltage Distribution Equipment",
+      "dv": "26",
+      "m": true
+    },
+    {
+      "k": "26 27 26 03",
+      "u": "Titik stop kontak 1 fasa",
+      "s": "titik",
+      "g": "26 27 00 Low-Voltage Distribution Equipment",
+      "dv": "26",
+      "m": true
+    },
+    {
+      "k": "26 27 26 04",
+      "u": "Titik stop kontak 3 fasa (mesin / workshop)",
+      "s": "titik",
+      "g": "26 27 00 Low-Voltage Distribution Equipment",
+      "dv": "26",
+      "m": true
+    },
+    {
+      "k": "26 32 13 01",
+      "u": "Genset",
+      "s": "unit",
+      "g": "26 32 00 Packaged Generator Assemblies",
+      "dv": "26",
+      "m": true
+    },
+    {
+      "k": "26 33 53 01",
+      "u": "UPS (opsional)",
+      "s": "unit",
+      "g": "26 33 00 Battery Equipment",
+      "dv": "26",
+      "m": true
+    },
+    {
+      "k": "26 36 23 01",
+      "u": "Panel ATS / AMF",
+      "s": "unit",
+      "g": "26 36 00 Transfer Switches",
+      "dv": "26",
+      "m": true
+    },
+    {
+      "k": "26 41 13 01",
+      "u": "Penangkal petir (air terminal, down conductor, grounding)",
+      "s": "ls",
+      "g": "26 41 00 Facility Lightning Protection",
+      "dv": "26",
+      "m": true
+    },
+    {
+      "k": "26 51 13 01",
+      "u": "Lampu LED panel / downlight",
+      "s": "unit",
+      "g": "26 51 00 Interior Lighting",
+      "dv": "26",
+      "m": true
+    },
+    {
+      "k": "26 51 13 02",
+      "u": "Lampu TL batten LED",
+      "s": "unit",
+      "g": "26 51 00 Interior Lighting",
+      "dv": "26",
+      "m": true
+    },
+    {
+      "k": "26 51 13 03",
+      "u": "Lampu LED high-bay",
+      "s": "unit",
+      "g": "26 51 00 Interior Lighting",
+      "dv": "26",
+      "m": true
+    },
+    {
+      "k": "26 52 13 01",
+      "u": "Lampu emergency dan exit sign",
+      "s": "unit",
+      "g": "26 52 00 Safety Lighting",
+      "dv": "26",
+      "m": true
+    },
+    {
+      "k": "26 56 00 01",
+      "u": "Lampu luar / dinding / taman",
+      "s": "unit",
+      "g": "26 56 00 Exterior Lighting",
+      "dv": "26",
+      "m": true
+    },
+    {
+      "k": "27 11 16 01",
+      "u": "Rak jaringan (rack) dan patch panel",
+      "s": "unit",
+      "g": "27 11 00 Communications Equipment Room Fittings",
+      "dv": "27",
+      "m": true
+    },
+    {
+      "k": "27 15 13 01",
+      "u": "Titik data / telepon (kabel UTP Cat6, outlet)",
+      "s": "titik",
+      "g": "27 15 00 Communications Horizontal Cabling",
+      "dv": "27",
+      "m": true
+    },
+    {
+      "k": "27 41 00 01",
+      "u": "MATV / TV kabel",
+      "s": "ls",
+      "g": "27 41 00 Audio-Video Systems",
+      "dv": "27",
+      "m": true
+    },
+    {
+      "k": "27 51 16 01",
+      "u": "Sound system / paging",
+      "s": "ls",
+      "g": "27 51 00 Distributed Audio-Video Communications Systems",
+      "dv": "27",
+      "m": true
+    },
+    {
+      "k": "28 13 00 01",
+      "u": "Sistem akses kontrol",
+      "s": "unit",
+      "g": "28 13 00 Access Control",
+      "dv": "28",
+      "m": true
+    },
+    {
+      "k": "28 23 00 01",
+      "u": "Kamera CCTV",
+      "s": "unit",
+      "g": "28 23 00 Video Surveillance",
+      "dv": "28",
+      "m": true
+    },
+    {
+      "k": "28 23 00 02",
+      "u": "NVR, storage dan kabel CCTV",
+      "s": "ls",
+      "g": "28 23 00 Video Surveillance",
+      "dv": "28",
+      "m": true
+    },
+    {
+      "k": "28 31 11 01",
+      "u": "Panel alarm kebakaran (MCFA)",
+      "s": "unit",
+      "g": "28 31 00 Fire Detection and Alarm",
+      "dv": "28",
+      "m": true
+    },
+    {
+      "k": "28 31 11 02",
+      "u": "Detektor asap / panas",
+      "s": "unit",
+      "g": "28 31 00 Fire Detection and Alarm",
+      "dv": "28",
+      "m": true
+    },
+    {
+      "k": "28 31 11 03",
+      "u": "Manual call point dan bell",
+      "s": "unit",
+      "g": "28 31 00 Fire Detection and Alarm",
+      "dv": "28",
+      "m": true
+    },
+    {
+      "k": "28 31 11 04",
+      "u": "Kabel FRC dan instalasi alarm",
+      "s": "ls",
+      "g": "28 31 00 Fire Detection and Alarm",
+      "dv": "28",
+      "m": true
+    }
+  ],
+  "extra_divs": {
+    "14": "CONVEYING EQUIPMENT (LIFT DAN KRANE)",
+    "21": "FIRE SUPPRESSION (PEMADAM KEBAKARAN)",
+    "23": "HEATING, VENTILATING, AND AIR CONDITIONING (HVAC)",
+    "26": "ELECTRICAL (ELEKTRIKAL)",
+    "27": "COMMUNICATIONS (KOMUNIKASI)",
+    "28": "ELECTRONIC SAFETY AND SECURITY (KEAMANAN ELEKTRONIK)",
+    "00": "PROCUREMENT AND CONTRACTING REQUIREMENTS"
+  }
+}
